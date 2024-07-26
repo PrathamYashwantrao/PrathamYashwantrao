@@ -4,7 +4,7 @@
 
 
 
-- 🌱 I’m currently learning **DevSecOps**
+- 🌱 I’m currently learning **DevOps**
 
 - 👨‍💻 All of my projects are available at [https://github.com/PrathamYashwantrao](https://github.com/PrathamYashwantrao)
 
